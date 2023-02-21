@@ -1,0 +1,15 @@
+/*
+  ========================
+  Footer style for task 2
+  ========================
+*/
+footer {
+    background-color: #00FF00;
+    height: 60px;
+    width: 100%;
+    position: sticky;
+    top: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

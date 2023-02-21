@@ -1,0 +1,16 @@
+/*
+  ================================
+  footer style sheet for task 3
+  ================================
+*/
+footer {
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    border-top: 1px solid #CCCCCC;
+    display: flex;
+    position: sticky;
+    top: 100%;
+    align-items: center;
+    justify-content: center;
+}
