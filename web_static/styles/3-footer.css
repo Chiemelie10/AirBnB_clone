@@ -9,8 +9,8 @@ footer {
     width: 100%;
     border-top: 1px solid #CCCCCC;
     display: flex;
-    position: sticky;
-    top: 100%;
+    position: fixed;
+    bottom: 0;
     align-items: center;
     justify-content: center;
 }
