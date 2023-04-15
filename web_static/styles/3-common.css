@@ -1,13 +1,18 @@
 /*
-  =============================
-  Body style sheet for task 3
-  =============================
+  ===========================
+  Task 3 body styling
+  ===========================
 */
+html {
+    height: 100%;
+}
 body {
     margin: 0;
     padding: 0;
     color: #484848;
     font-size: 14px;
     font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    min-height: 100vh;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
 }

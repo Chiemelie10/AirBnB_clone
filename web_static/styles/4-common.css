@@ -1,18 +1,24 @@
 /*
-  =============================
-  Body style sheet for task 4
-  =============================
+  ===========================
+  Task 4 body styling
+  ===========================
 */
+html {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
 body {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
     color: #484848;
     font-size: 14px;
     font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    min-height: 100vh;
+    height: 100%;
 }
-
 .container {
-  max-width: 1000px;
-  margin: 30px auto;
+    max-width: 1000px;
+    width: 100%;
+    margin: 30px auto;
 }

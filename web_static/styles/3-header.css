@@ -1,19 +1,15 @@
 /*
-  ==================================
-  header style sheet for task 3
-  ==================================
+  ============================
+  Task 3 header styling
+  ============================
 */
+
 header {
     background-color: white;
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
-}
-.logo {
-  background-image: url("../images/logo.png");
-  background-repeat: no-repeat;
-  height: 100%;
-  padding-left: 20%;
-  background-position-x: 20px;
-  background-position-y: center;
+    background-image: url("/images/logo.png");
+    background-repeat: no-repeat;
+    background-position: 20px 50%;
 }
